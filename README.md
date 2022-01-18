@@ -21,7 +21,7 @@ Checkpoints will be graded as follows:
 * Checkpoint 1: 70 points
 * Checkpoint 2: 30 points
 
-Part 1. SQL Querying
+Part 1. Database and SQL Querying
 ==========
 ### Narrative and directives
 
@@ -31,11 +31,11 @@ The main goal of WPCC is to help each child learn and succeed in playing chess a
 
 In this lab, we will use query the tables of the WPCC database, already designed. The goal is to refresh our SQL skills. 
 
-Access the data dictionary and the database design of the WPCC databse available in the Lab 2 repository.  
+Please Go through the [data dictionary](https://github.com/S22-67-272Q/lab2/blob/main/wpcc_data_dict.pdf) and [database design](https://github.com/S22-67-272Q/lab2/blob/main/wpcc_db_design.pdf) of the WPCC database.  
 
-Review the contents and ask any questions regarding the database you might have to the TAs before proceeding.
+Review the contents and feel free to ask any questions regarding the database you might have to the TA or CAs before proceeding.
 
-**Note**: We are providing you with a set of [slides] summarizing the basic and most used SQL queries. Make sure you refer to these slides and to [Google](https://www.google.com/) to brush up your SQL skills.
+**Note**: We are also providing you with a set of [slides] summarizing the basic and most used SQL queries. Make sure you refer to these slides and to [Google](https://www.google.com/) to brush up your SQL skills.
 
 
 ### Queries
