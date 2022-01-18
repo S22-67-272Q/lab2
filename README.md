@@ -35,7 +35,7 @@ Please Go through the [data dictionary](https://github.com/S22-67-272Q/lab2/blob
 
 Review the contents and feel free to ask any questions regarding the database you might have to the TA or CAs before proceeding.
 
-**Note**: We are also providing you with a set of [slides] summarizing the basic and most used SQL queries. Make sure you refer to these slides and to [Google](https://www.google.com/) to brush up your SQL skills.
+**Note**: We are also providing you with a set of [slides] summarizing the basic and most used SQL queries. Make sure you refer to [these slides](https://github.com/S22-67-272Q/lab2/blob/main/SQL_refresher.pdf) and to [Google](https://www.google.com/) to brush up your SQL skills.
 
 
 ### Queries
